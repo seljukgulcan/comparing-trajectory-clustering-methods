@@ -12,4 +12,14 @@ Trajectory segmentation is applied to reduce the number of sample points and hau
 
 ![Trajectory Segmentation](segmentation.png)
 
-Code is a mess, I'll try to clean it up when I have time but the pdf report should be enough to get an idea.
+## Update (Feb 2019)
+
+Added a [notebook](demo/demo.ipynb) demonstrating every step of the project. Please look at that first, it is more shorter and understandable than other parts of the project. It also shows these steps on a public dataset.
+
+Public Dataset:
+
+![Public Dataset](demo/demo1.png)
+
+Clustered Trajectories:
+
+![Clustered Trajectories](demo/demo2.png)
