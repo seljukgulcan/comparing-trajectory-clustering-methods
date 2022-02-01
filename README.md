@@ -1,5 +1,11 @@
 # comparing-trajectory-clustering-methods
 
+## Update (Feb 2022)
+
+I recently published [a blog post](https://seljuk.me/notes-on-trajectory-clustering.html) regarding trajectory clustering. It suplements the repo in a more theoretical level, you may check it out if the general approach is not clear.
+
+----
+
 This was my pattern recognition course term project. The goal is to compare 4 clustering algorithms (k-medoids, gaussian mixture model, dbscan and hdbscan) on civil flight data. More detail can be found in report.pdf file.
 
 ![A snapshot of data](data.png)
